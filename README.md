@@ -65,8 +65,8 @@ Style it as you see fit. We personally really like tailwind and Shadcn.
 
 Two very cool and free LLM providers are:
 
-https://groq.com/
-https://cloud.sambanova.ai/
+- https://groq.com/
+- https://cloud.sambanova.ai/
 
 You can create accounts w/o credit cards and they have fairly generous free tiers
 
