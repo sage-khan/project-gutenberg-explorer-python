@@ -72,7 +72,7 @@ You can create accounts w/o credit cards and they have fairly generous free tier
 
 </aside>
 
-Note: This is the codebase of take-home assignment given by SarjAI. We will be making this completely in Python, although we do have some versions available in JS/TS.
+_Note: This is the codebase of take-home assignment given by SarjAI. We will be making this completely in Python/Flask, although we do have some versions available in JS/TS._
 
 ## Directory Structure
 
