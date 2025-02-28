@@ -1,11 +1,10 @@
 # project-gutenberg-explorer-python
 
-
+This is the codebase of take-home assignment given by SarjAI. We will be making this completely in Python, although we do have some versions available in JS/TS.
 
 ## Directory Structure
 
-For a well-structured **Project Gutenberg Explorer** in Python, follow this directory structure. We'll separate concerns for better maintainability.
-
+This is the directory structure
 ---
 
 ### 📂 Project Directory Structure:
