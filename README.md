@@ -66,5 +66,7 @@ Two excellent and free LLM providers are:
 - [Groq](https://groq.com/)
 - [SambaNova](https://cloud.sambanova.ai/)
 
+**_ Note: When you open the project gutenberg site and press F12 for inspection, you will find that the first comment of html page will give a warning that This page is not to be used for scraping or IP will be blocked. It asks to go to www.gutenberg.org/feeds to learn how to download Project metadata much faster by scraping._**
+
 You can create accounts without credit cards, and they offer fairly generous free tiers.
 
